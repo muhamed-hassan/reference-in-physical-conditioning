@@ -1,4 +1,4 @@
-#### Please visit the wiki for more info https://github.com/muhamed-hassan/reference-in-physical-conditioning/wiki
+#### Please visit the [wiki](https://github.com/muhamed-hassan/reference-in-physical-conditioning/wiki) for more info
 
 ***
 
